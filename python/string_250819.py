@@ -11,10 +11,12 @@ for i in range(len(s)):
         print(s[i],end='')
     else:
         print("*",end='')
-        
-# Sample IP:
-# abcdefg
 
-# Sample OP:
-# a*c*e*g
-# *b*d*f*
+'''
+Sample IP:
+abcdefg
+
+Sample OP:
+a*c*e*g
+*b*d*f*
+'''
