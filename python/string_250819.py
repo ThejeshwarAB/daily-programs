@@ -12,9 +12,9 @@ for i in range(len(s)):
     else:
         print("*",end='')
         
-Sample IP:
-abcdefg
+# Sample IP:
+# abcdefg
 
-Sample OP:
-a*c*e*g
-*b*d*f*
+# Sample OP:
+# a*c*e*g
+# *b*d*f*
