@@ -17,6 +17,7 @@ if(b[i]>max)
 {max=b[i];y=i+1;}
 printf("%d",y);
 }
+//row with max 1s
 
 /*
 Sample IP:
