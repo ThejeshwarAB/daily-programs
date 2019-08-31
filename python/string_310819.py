@@ -14,7 +14,7 @@ print(min(c.values()))
 '''
 Sample IP:
 3
-10 15 100
+10 12 100
 
 Sample OP:
 4
