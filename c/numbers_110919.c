@@ -31,8 +31,8 @@ printf("\n-1");
 //find number of evn
 //print even sum
 //print odd aveg
-//else print -1
-//neglect zero
+//else prints -1
+//neglect zeroes
 
 /* 
 Sample IP:
