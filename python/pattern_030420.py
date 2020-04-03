@@ -13,6 +13,7 @@ for i in x:
         else: break
     if(c==len(t)):
         print(*i)
+        break
 #input n no. of strings
 #print the abbreviation
 
