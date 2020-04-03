@@ -24,5 +24,5 @@ world health org
 WHO
 
 Sample OP:
-word health org
+world health org
 '''
